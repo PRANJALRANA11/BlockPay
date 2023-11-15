@@ -1,6 +1,5 @@
 from pydantic import BaseModel
 
-
 class Item(BaseModel):
     name: str
     description: str | None = None
@@ -9,13 +8,16 @@ class Item(BaseModel):
 
 class NFTRequest(BaseModel):
     name: str
-    ammount: int
+    ammount: float
     description: str | None = None
+    sender: str
+    address: str
+    nft: str
     
-
-
 class NFTResonse(BaseModel):
     user_id: int
     nft_id: int
     name: str
     description: str | None = None
+
+# sender, address, sender amount , sender, description , creator address , creator, nft
