@@ -1,2 +1,5 @@
 # Virtaul Python Environment
 .venv
+
+# Firebase credential 
+credential.json
