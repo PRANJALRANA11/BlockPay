@@ -1,2 +1,2 @@
-# BlockPay
-BlockPay is a cutting-edge project that focuses on seamlessly integrating blockchain technology with web services to enable the swift and secure transfer of crypto credits in place of traditional currency. This project aims to revolutionize the world of online transactions and payment systems by harnessing the power of blockchain technology.
+# DigiLance
+Welcome to DigiLance—an innovative space where creativity thrives, and artists flourish in anonymity. Embrace the freedom to let your imagination run wild without the constraints of identity, as our platform empowers digital artists to showcase their talent while preserving their anonymity.
