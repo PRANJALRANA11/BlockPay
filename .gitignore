@@ -3,3 +3,9 @@
 
 # Firebase credential 
 credential.json
+
+# Vscode 
+.vscode
+
+# server catching
+__pycache__
